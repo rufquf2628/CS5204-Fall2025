@@ -22,3 +22,22 @@ The final project will focus on concurrency and synchronization. You will build 
 
 
 # Project 0
+
+Before starting the main projects, you will first complete Project 0, which focuses on setting up your development environment. A consistent and properly configured environment is critical for systems programming, especially when working with low-level OS concepts.
+
+## Part 1: Virtual Machine Setup
+
+To provide a consistent environment across all students, we recommend using the course-provided Linux virtual machine (VM).
+
+*Note: If you already have access to a reliable Linux environment and are comfortable using it for kernel development, you may skip this step. However, be aware that all grading and testing will be performed inside the course VM. If your custom environment behaves differently, it will be your responsibility to resolve any discrepancies.*
+
+### Step 1 : Install Oracle VirtualBox
+1. Download [VirtualBox](https://www.virtualbox.org/)
+2. Run VirtualBox Installer
+3. Verify Installation
+
+### Step 2 : Create Virtual Machine
+1. Download [Ubuntu 24.04.3 Desktop](https://ubuntu.com/download/desktop)
+
+## Part 2: Linux Kernel Compile and Install
+
