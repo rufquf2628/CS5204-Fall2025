@@ -31,6 +31,8 @@ To provide a consistent environment across all students, we recommend using the 
 
 *Note: If you already have access to a reliable Linux environment and are comfortable using it for kernel development, you may skip this step. However, be aware that all grading and testing will be performed inside the course VM. If your custom environment behaves differently, it will be your responsibility to resolve any discrepancies.*
 
+*! If you don't have compatible device for Virtual Machine, we recommend you to use [Virginia Tech ARC Server](https://arc.vt.edu/). Please contact with them to ask about sudo linux server.*
+
 ### Step 1 : Install Oracle VirtualBox
 1. Download [VirtualBox](https://www.virtualbox.org/)
    + Note: You can also use other VM machine (e.g. VMWare)
