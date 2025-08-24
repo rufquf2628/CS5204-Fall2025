@@ -80,7 +80,7 @@ cd linux-6.14
 ```
 2. Install Packages for Kernel Build
 ```
-sudo apt-get install -y vim make gcc bc libelf-dev dwarves fakeroot pahole ccache libdw-dev
+sudo apt-get install -y vim make gcc bc libelf-dev dwarves fakeroot pahole ccache libdw-dev gawk
 ```
 3. Configure the Kernel
    + Copy the default kernel config file
