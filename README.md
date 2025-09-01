@@ -27,11 +27,11 @@ Before starting the main projects, you will first complete Project 0, which focu
 
 ## Part 1: Virtual Machine Setup
 
-To provide a consistent environment across all students, we recommend using the course-provided Linux virtual machine (VM).
+To provide a consistent environment across all students, we recommend using the course-provided Linux virtual machine (VM). In case of Mac, you can use Mac environment but we will grade all project in Ubuntu Linux environment.
 
 *Note: If you already have access to a reliable Linux environment and are comfortable using it for kernel development, you may skip this step. However, be aware that all grading and testing will be performed inside the course VM. If your custom environment behaves differently, it will be your responsibility to resolve any discrepancies.*
 
-*! If you don't have compatible device for Virtual Machine, we recommend you to use [Virginia Tech ARC Server](https://arc.vt.edu/). Please contact with them to ask about sudo linux server.*
+*! If you don't have compatible device for Virtual Machine, we recommend you to use [Virginia Tech ARC Server](https://arc.vt.edu/). Please contact with them to ask about sudo linux server. Or, you can burrow a labtop from Newman library. Please keep track on same linux environment with us.*
 
 ### Step 1 : Install Oracle VirtualBox
 1. Download [VirtualBox](https://www.virtualbox.org/)
